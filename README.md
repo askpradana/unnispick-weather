@@ -24,6 +24,10 @@ To run the Weather App, ensure you have the following prerequisites installed on
 
 ### Installation
 
+Important Note
+> Please ask for google-services.json and GoogleService-Info.plist 
+as you can't run this apps  without that 2 files
+
 1. Clone the repo
    ```sh
    git clone https://github.com/askpradana/unnispick-weather
